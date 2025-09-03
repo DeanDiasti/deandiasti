@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm DEan</h1>
+<h1 align="center">Hi 👋, I'm Dean</h1>
 <h3 align="center">A new grad backend developer interested in ML and Robotics</h3>
 
 <h3 align="left">Connect with me:</h3>
