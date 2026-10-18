@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="280" viewBox="0 0 640 280" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Dean Diasti. AI infrastructure and developer tools.</title>
+  <desc id="desc">Blue and teal signal paths join at an interface and emerge as an isometric solid, connecting AI systems with tools for the physical world.</desc>
+  <rect width="640" height="280" rx="16" fill="#F3F6FC"/>
+  <g font-family="'Trebuchet MS', 'Avenir Next', Arial, sans-serif" fill="#182B4A">
+    <text x="32" y="102" font-size="78" font-weight="700" letter-spacing="-4">Dean Diasti</text>
+    <g font-size="34" font-weight="400" letter-spacing="-.6">
+      <text x="34" y="165">AI infrastructure.</text>
+      <text x="34" y="211">Developer tools.</text>
+    </g>
+  </g>
+  <g transform="translate(230 154) scale(.32)" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M706 81H748C768 81 774 95 774 113V139C774 157 782 168 803 168H828" stroke="#3456D9" stroke-width="4"/>
+    <path d="M674 168H828" stroke="#3456D9" stroke-width="4"/>
+    <path d="M706 255H748C768 255 774 241 774 223V197C774 179 782 168 803 168" stroke="#176E73" stroke-width="4"/>
+    <circle cx="700" cy="81" r="8" fill="#3456D9"/>
+    <circle cx="668" cy="168" r="8" fill="#3456D9"/>
+    <circle cx="700" cy="255" r="8" fill="#176E73"/>
+    <rect x="826" y="141" width="54" height="54" rx="10" fill="#DCE6F7" stroke="#3456D9" stroke-width="3"/>
+    <path d="M845 156L857 168L845 180M859 180H866" stroke="#3456D9" stroke-width="3"/>
+    <path d="M882 168H930" stroke="#3456D9" stroke-width="4"/>
+    <path d="M928 134L1008 88L1088 134L1008 180Z" fill="#DCE6F7" stroke="#3456D9" stroke-width="3"/>
+    <path d="M928 134V226L1008 272V180Z" fill="#E9EFF9" stroke="#3456D9" stroke-width="3"/>
+    <path d="M1008 180L1088 134V226L1008 272Z" fill="#C8D8F2" stroke="#3456D9" stroke-width="3"/>
+    <path d="M968 111L1048 157M968 157L1048 111" stroke="#3456D9" stroke-width="1.5" opacity=".45"/>
+    <path d="M968 157V249M1048 157V249" stroke="#3456D9" stroke-width="1.5" opacity=".45"/>
+    <path d="M930 180L1008 226L1086 180" stroke="#3456D9" stroke-width="1.5" opacity=".45"/>
+    <path d="M1008 274V294H854C846 294 842 290 842 282V221" stroke="#176E73" stroke-width="2"/>
+    <circle cx="842" cy="216" r="5" fill="#176E73"/>
+  </g>
+</svg>
